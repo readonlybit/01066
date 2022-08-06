@@ -1,32 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>加油小宝</title>
-
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+    <title>01066.CN</title>
 </head>
 
 <body>
-    <div id="content"></div>
-
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <div id="app">客官，马上好～</div>
     <script>
-        $(function () {
-            $.ajax({
-                type: "get",
-                url: "./新概念英语/新概念2/Lesson01.md",
-                dataType: "html",
-                success: function (res) {
-                    document.getElementById('content').innerHTML = marked.parse(res);
+        window.$docsify = {
+            el: '#app',
+            basePath: '/',
+            loadSidebar: '_sidebar.md',
+            subMaxLevel: 3,
+            relativePath: true,
+            name: '<img src="/favicon.ico" width="20" height="20"/> 学习笔记',
+            nameLink: '/',
+            notFoundPage: true,
+            topMargin: 90,
+            homepage: '/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD/%E6%96%B0%E6%A6%82%E5%BF%B52/Lesson01.md',
+            search: {
+                noData: {
+                    '/': 'Not found!'
+                },
+                paths: 'auto',
+                placeholder: {
+                    '/': '搜索'
                 }
-            })
-        })
+            }
+        }
     </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 
 </html>

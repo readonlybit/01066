@@ -1,5 +1,6 @@
 # Lesson 01 A private conversation
 
+一次私人的谈话
 ## 单词
 
 <pre>
@@ -96,7 +97,7 @@
 
 </pre>
 
-### 简单陈述句的变化-谓语动词的变化
+### 谓语动词的变化
 
 <pre>
     一件事当中只能包含一个谓语动词。遇到长难句的时候数清楚谓语动词，就可以断句当成几件事来看。
@@ -112,7 +113,48 @@
 
 </pre>
 
-***
+### 简单陈述句的分类
+
+<pre>
+    They meet.                主谓      vi.不及物
+    他们相遇了。
+    I love you.               主谓宾    vt.及物
+    我爱你。
+    I tell you a secret.      主谓双宾 -> 第三课
+    我告诉你一个秘密。
+    I find you interesting.   主谓宾补 -> 第四课
+    我觉得你很有趣。
+    You are beautiful.        主系表    系动词
+    你非常漂亮。
+    三类系动词（必须满足后面的条件）
+        1. be动词（单独出现）
+        2. get become turn go grow "变得"
+        3. look sound smell taste feel
+           看起来/听起来/闻起来/品尝起来/感觉起来
+           只有表示怎么怎么起来的时候才是系动词
+
+    主系表？
+        The play was very interesting.
+        They were talking loudly.
+        I got very angry.
+    
+    不规则变化的动词：
+    动词原形 -> 
+    过去式   -> 只有一个用途：用在一般过去式时态当中
+    过去分词 -> 用在完成时态、被动语态、不做谓语做非谓语动词
+        动词原形 |  过去式    | 过去分词  |  ing分词
+        go      |   went    | gone      |
+        have    |   had     | had       |   having
+        do      |   did     | done      |
+        be      |   was/were| been      |
+        sit     |   sat     | sat       |   sitting
+        get     |   got     | got/gotten|   getting
+        pay     |   paid    | paid      |
+        bear    |   bore    | borne     |
+        say     |   said    | said      |
+</pre>
+
+## 课文
 
 <pre>
     A young man and a young woman <b>were sitting</b> behind me.
@@ -133,8 +175,25 @@
     最后，我无法忍受了。
     I <b>turned</b> round again.
     我再次转过去。
-    “I <b>can't hear</b> a word!” I <b>said</b> angrily.
-    我非常生气的说：“我一个词也听不到了”。
-    “It<b>'s</b> <u>none of</u> your business,” the young man <b>said</b> rudely.
-    
+    "I <b>can't hear</b> a word!" I <b>said</b> angrily.
+    我非常生气的说："我一个词也听不到了"。
+    "It<b>'s</b> <u>none of</u> your business," the young man <b>said</b> rudely.
+    "这不关你的事"，这个年轻的男人粗鲁的说道。
+    "This <b>is</b> a private conversation!"
+    "这是一次私人的谈话！"
+</pre>
+
+## 练习
+
+<pre>
+    连词成句：
+    the film | I | enjoyed | yesterday.
+
+        I enjoyed the film <u>yesterday</u>.
+        <u>Yesterday</u> I enjoyed the film.
+
+    games | played | yesterday | in their room | the children | quiely
+
+        The children played games quietyly in their romm <u>yesterday</u>.
+
 </pre>
