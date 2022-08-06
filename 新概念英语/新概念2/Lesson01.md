@@ -11,6 +11,12 @@
     theatre n.剧院，戏院
     angry   adj.生气的
     angrily adv.生气地
+    loud    adj.大声的
+    loudly  adv.大声地
+    rude    adj.无礼的，粗鲁的
+    rudely  adv.无礼地，粗鲁地
+    attention   n.注意
+
 ```
 
 ### 语句
@@ -26,6 +32,12 @@
     去戏院
     The angry boy shouted angrily.
     生气的男孩生气地喊。
+    pay attention to sb./sth.
+    注意这个/注意某个事
+    We pay attention to the new words.
+    我们注意这些新的单词。
+    They did not pay any attention.
+    他们没有注意。
 ```
 
 ### 语法
