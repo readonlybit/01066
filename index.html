@@ -6,16 +6,27 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>01066.cn</title>
+    <title>加油小宝</title>
 
 </head>
 
 <body>
-    <h3>welcome 01066</h3>
+    <div id="content"></div>
 
-    <a href="./新概念英语/目录.md">
-        <font style="font-size: 16px;" >英语笔记</font>
-    </a>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $.ajax({
+                type: "get",
+                url: "./新概念英语/新概念2/Lesson01.md",
+                dataType: "html",
+                success: function (res) {
+                    document.getElementById('content').innerHTML = marked.parse(res);
+                }
+            })
+        })
+    </script>
 </body>
 
 </html>
