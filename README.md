@@ -1,4 +1,4 @@
-<font face="fantasy" color="#1E90FF">:gift_heart:&nbsp;&nbsp;01066.CN</font>&nbsp;&nbsp;&nbsp;&nbsp;`坚持就是胜利`
+<font face="fantasy" color="#1E90FF">:gift_heart:&nbsp;&nbsp;01066.CN</font>&nbsp;&nbsp;&nbsp;&nbsp;`Practice makes perfect`
 ---
 
 
