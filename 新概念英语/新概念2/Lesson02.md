@@ -20,15 +20,15 @@
 |rebroadcast|v.重播|
 |pardon|n.原谅；赦免；宽恕；特赦|
 
-|  动词原形 |  过去式    | 过去分词  | 释义 |
+|  动词原形 |  过去式    | 过去分词  |ing分词| 释义 |
 |----------|-----------|-----------|-----------| 
-|r<u>i</u>ng|r<u>a</u>ng|r<u>u</u>ng|(铃，电话等)响|
-|s<u>i</u>ng|s<u>a</u>ng|s<u>u</u>ng|唱歌|
-|dr<u>i</u>nk|dr<u>a</u>nk|dr<u>u</u>nk|喝|
-|sw<u>i</u>m|sw<u>a</u>m|sw<u>u</u>m|游泳|
-|beg<u>i</u>n|beg<u>a</u>n|beg<u>u</u>n|开始|
-|think|thought| thought|      |
-|come|came|come|coming|
+|r<u>i</u>ng|r<u>a</u>ng|r<u>u</u>ng||(铃，电话等)响|
+|s<u>i</u>ng|s<u>a</u>ng|s<u>u</u>ng||唱歌|
+|dr<u>i</u>nk|dr<u>a</u>nk|dr<u>u</u>nk||喝|
+|sw<u>i</u>m|sw<u>a</u>m|sw<u>u</u>m||游泳|
+|beg<u>i</u>n|beg<u>a</u>n|beg<u>u</u>n||开始|
+|think|thought| thought||      |
+|come|came|come|coming||
 
 ## 语句
 

@@ -1,6 +1,7 @@
-<font face="fantasy" color="#1E90FF">:gift_heart:&nbsp;&nbsp;01066.CN</font>&nbsp;&nbsp;&nbsp;&nbsp;`Practice makes perfect`
+<font color="#1E90FF">&nbsp;&nbsp;01066.CN</font>
 ---
 
+:gift_heart: `Practice makes perfect.`  
 
 **新概念英语**
 
