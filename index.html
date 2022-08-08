@@ -18,7 +18,11 @@
         window.$docsify = {
             el: '#app',
             basePath: '/',
-            loadSidebar: '_sidebar.md',
+            loadSidebar: true,
+            alias: {
+                '/.*/_sidebar.md': '/_sidebar.md',
+            },
+            sidebarDisplayLevel: 1,
             subMaxLevel: 3,
             relativePath: true,
             name: '<img src="/favicon.ico" width="20" height="20"/> 学习笔记',
