@@ -1,4 +1,4 @@
-# Lesson 01 
+# Lesson 01
 
 ## A private conversation
 
@@ -14,6 +14,5 @@
 ## 语法
 
 ## 课文
-
 
 ## 练习

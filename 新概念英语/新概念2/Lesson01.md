@@ -6,19 +6,19 @@
 
 ## 单词
 
-  |单词|释义|
-  |-------------|---------------------------|
-  |private      |abj.私人的 （私密的，私立的）|
-  |privacy      |n.隐私                      |
-  |public       |abj.公共的，公开的           |
-  |theatre      |n.剧院，戏院                 |
-  |angry        |adj.生气的                   |
-  |angrily      |adv.生气地                   |
-  |loud         |adj.大声的                   |
-  |loudly       |adv.大声地                   |
-  |rude         |adj.无礼的，粗鲁的           |
-  |rudely       |adv.无礼地，粗鲁地           |
-  |attention    |n.注意                       |
+  | 单词      | 释义                          |
+  | --------- | ----------------------------- |
+  | private   | abj.私人的 （私密的，私立的） |
+  | privacy   | n.隐私                        |
+  | public    | abj.公共的，公开的            |
+  | theatre   | n.剧院，戏院                  |
+  | angry     | adj.生气的                    |
+  | angrily   | adv.生气地                    |
+  | loud      | adj.大声的                    |
+  | loudly    | adv.大声地                    |
+  | rude      | adj.无礼的，粗鲁的            |
+  | rudely    | adv.无礼地，粗鲁地            |
+  | attention | n.注意                        |
 
 ## 语句
 
@@ -171,17 +171,17 @@ You are beautiful.        主系表    系动词
 > 用在完成时态、被动语态、不做谓语做非谓语动词  
 
 
-|  动词原形 |  过去式    | 过去分词  |  ing分词 | 
-|----------|-----------|-----------|-----------| 
-|  go      |   went    | gone      |           |
-|  have    |   had     | had       |   having  |
-|  do      |   did     | done      |           |
-|  be      |   was/were| been      |           |
-|  sit     |   sat     | sat       |   sitting |
-|  get     |   got     | got/gotten|   getting |
-|  pay     |   paid    | paid      |           |
-|  bear    |   bore    | borne     |           |
-|  say     |   said    | said      |           |
+| 动词原形 | 过去式   | 过去分词   | ing分词 |
+| -------- | -------- | ---------- | ------- |
+| go       | went     | gone       |         |
+| have     | had      | had        | having  |
+| do       | did      | done       |         |
+| be       | was/were | been       |         |
+| sit      | sat      | sat        | sitting |
+| get      | got      | got/gotten | getting |
+| pay      | paid     | paid       |         |
+| bear     | bore     | borne      |         |
+| say      | said     | said       |         |
 
 
 ## 课文
