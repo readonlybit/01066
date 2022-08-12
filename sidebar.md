@@ -7,3 +7,4 @@
   - [Lesson01](/新概念英语/新概念2/Lesson01.md)
   - [Lesson02](/新概念英语/新概念2/Lesson02.md)
   - [Lesson03](/新概念英语/新概念2/Lesson03.md)
+  - [Lesson04](/新概念英语/新概念2/Lesson04.md)
