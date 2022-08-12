@@ -19,7 +19,14 @@
             el: '#app',
             basePath: '/',
             loadSidebar: true,
+            loadSidebar: 'sidebar.md',
+            autoHeader: true,
             sidebarDisplayLevel: 1,
+            loadNavbar: true,
+            loadNavbar: 'navbar.md',
+            navbarDisplayLevel: 1,
+            notFoundPage: true,
+            notFoundPage: '404.md',
             subMaxLevel: 3,
             relativePath: true,
             name: '<img src="/favicon.ico" width="20" height="20"/> 学习笔记',
@@ -35,7 +42,8 @@
                 placeholder: {
                     '/': '搜索'
                 }
-            }
+            },
+            themeColor: '#3DADA3',
         }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
